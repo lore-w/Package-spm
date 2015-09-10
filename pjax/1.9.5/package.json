@@ -1,6 +1,14 @@
 {
     "name": "spm-pjax",
-    "version": "1.0.6",
+    "version": "1.1.0",
+    "description": "Pjax is a jQuery plugin that uses ajax and pushState to deliver a fast browsing experience",
+    "homepage": "http://pjax.heroku.com/",
+    "author": "mislav <mislav.marohnic@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/defunkt/jquery-pjax"
+    },
+    "licenses": "MIT",
     "spm": {
         "main": "jquery.pjax.js",
         "dependencies": {
