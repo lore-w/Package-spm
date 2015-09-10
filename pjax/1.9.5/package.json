@@ -1,0 +1,10 @@
+{
+    "name": "spm-pjax",
+    "version": "1.0.6",
+    "spm": {
+        "main": "jquery.pjax.js",
+        "dependencies": {
+            "jquery": "1.8.3"
+        }
+    }
+}
