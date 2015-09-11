@@ -1,10 +1,10 @@
 {
-  "name": "spm-zepto",
+  "name": "spm-dotdotdot",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
   "homepage": "",
-  "author": " ",
+  "author": "lore-w <metro-cpu@hotmail.com>",
   "repository": {
     "type": "git",
     "url": ""
@@ -20,5 +20,12 @@
     "devDependencies": {
       "expect.js": "0.3.1"
     }
+  },
+  "devDependencies": {
+    "spm": "3"
+  },
+  "scripts": {
+    "test": "spm test",
+    "build": "spm build"
   }
 }

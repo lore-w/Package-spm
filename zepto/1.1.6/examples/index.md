@@ -5,7 +5,7 @@
 ## Normal usage
 
 ````javascript
-seajs.use('index', function(spmZepto) {
+seajs.use('spm-zepto', function(spmZepto) {
 
 });
 ````

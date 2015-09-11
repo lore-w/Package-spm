@@ -2,9 +2,11 @@
 
 ---
 
-## Description
+## Version
 
-占位
+```
+1.1.6
+```
 
 ## Install
 
