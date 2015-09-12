@@ -1,0 +1,24 @@
+{
+    "name": "spm-cookie",
+    "version": "1.0.0",
+    "description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
+    "author": "Klaus Hartl",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/carhartl/jquery-cookie.git"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "jquery.cookie.js",
+        "dependencies": {
+            "jquery": "1.8.3"
+        }
+    },
+    "devDependencies": {
+        "spm": "3"
+    },
+    "scripts": {
+        "test": "spm test",
+        "build": "spm build"
+    }
+}

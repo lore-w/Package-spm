@@ -5,7 +5,5 @@
 ## Normal usage
 
 ````javascript
-seajs.use('index', function(spmCookie) {
-
-});
+var spmCookie = require('spm-cookie');
 ````
