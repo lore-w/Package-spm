@@ -1,0 +1,34 @@
+{
+    "name": "spm-dotdotdot",
+    "version": "1.0.0",
+    "description": "A jQuery plugin for advanced cross-browser ellipsis on multiple line content.",
+    "keywords": [
+        "ellipsis",
+        "dotdotdot",
+        "multiline",
+        "text",
+        "text-overflow",
+        "overflow",
+        "dots"
+    ],
+    "homepage": "http://dotdotdot.frebsite.nl/",
+    "author": "Fred Heusschen <info@frebsite.nl>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BeSite/jQuery.dotdotdot.git"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "jquery.dotdotdot.js",
+        "dependencies": {
+            "jquery": "1.8.3"
+        }
+    },
+    "devDependencies": {
+        "spm": "3"
+    },
+    "scripts": {
+        "test": "spm test",
+        "build": "spm build"
+    }
+}

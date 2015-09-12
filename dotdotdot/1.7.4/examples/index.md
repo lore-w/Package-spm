@@ -5,5 +5,5 @@
 ## Normal usage
 
 ````javascript
-var spmDotdotdot = require('index');
+var spmDotdotdot = require('spm-dotdotdot');
 ````
