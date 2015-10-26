@@ -1,0 +1,35 @@
+{
+    "name": "spm-swiper",
+    "version": "3.0.0",
+    "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+    "keywords": [
+        "swiper",
+        "swipe",
+        "slider",
+        "touch",
+        "ios",
+        "mobile",
+        "cordova",
+        "phonegap",
+        "app",
+        "framework",
+        "carousel",
+        "gallery"
+    ],
+    "homepage": "http://www.idangero.us/swiper/",
+    "author": "Vladimir Kharlampidi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nolimits4web/Swiper.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nolimits4web/Swiper/issues"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "swiper.js"
+    },
+    "devDependencies": {
+        "spm": "3"
+    }
+}
