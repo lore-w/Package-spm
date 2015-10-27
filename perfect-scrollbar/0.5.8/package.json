@@ -1,0 +1,27 @@
+{
+    "name": "spm-perfect-scrollbar",
+    "version": "1.0.0",
+    "description": "Minimalistic but perfect custom scrollbar plugin",
+    "keywords": [
+        "jquery-plugin",
+        "frontend",
+        "scroll",
+        "scrollbar"
+    ],
+    "homepage": "http://noraesae.github.io/perfect-scrollbar/",
+    "author": "Hyunje Alex Jun <me@noraesae.net>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/noraesae/perfect-scrollbar"
+    },
+    "bugs": {
+        "url": "https://github.com/noraesae/perfect-scrollbar/issues"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "perfect-scrollbar.js",
+        "dependencies": {
+            "jquery": "1.8.3"
+        }
+    }
+}
