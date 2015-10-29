@@ -1,0 +1,32 @@
+{
+    "name": "spm-hammer",
+    "version": "1.0.0",
+    "description": "A javascript library for multi-touch gestures",
+    "keywords": [
+        "touch",
+        "gestures"
+    ],
+    "homepage": "http://hammerjs.github.io/",
+    "author": {
+        "name": "Jorik Tangelder",
+        "email": "j.tangelder@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hammerjs/hammer.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/hammerjs/hammer.js/issues"
+    },
+    "licenses": "MIT",
+    "spm": {
+        "main": "hammer.js"
+    },
+    "devDependencies": {
+        "spm": "3"
+    },
+    "scripts": {
+        "test": "spm test",
+        "build": "spm build"
+    }
+}
